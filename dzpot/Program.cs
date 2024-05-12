@@ -31,4 +31,14 @@ class Program
         }
         return newArray;
 
+         }
+
+    static void PrintArray(string[] array)
+    {
+        foreach (string element in array)
+        {
+            Console.Write(element + " ");
+        }
+    }
+
 }
