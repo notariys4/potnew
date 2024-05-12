@@ -1,0 +1,15 @@
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\bin\Debug\net8.0\dzpot.exe
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\bin\Debug\net8.0\dzpot.deps.json
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\bin\Debug\net8.0\dzpot.runtimeconfig.json
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\bin\Debug\net8.0\dzpot.dll
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\bin\Debug\net8.0\dzpot.pdb
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.AssemblyInfoInputs.cache
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.AssemblyInfo.cs
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.csproj.CoreCompileInputs.cache
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.sourcelink.json
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.dll
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\refint\dzpot.dll
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.pdb
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\dzpot.genruntimeconfig.cache
+C:\Users\liltr\OneDrive\Desktop\1\dzpot\obj\Debug\net8.0\ref\dzpot.dll
